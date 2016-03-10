@@ -1,0 +1,27 @@
+{
+  "name": "angularjs",
+  "version": "0.0.0",
+  "description": "Angular practice",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "karma": "^0.12.16",
+    "karma-chrome-launcher": "^0.1.4",
+    "karma-dojo": "0.0.1",
+    "karma-jasmine": "^0.1.5",
+    "gulp": "^3.9.0",
+    "gulp-karma": "0.0.4",
+    "gulp-open": "^0.3.2",
+    "karma-jasmine-runner-reporter": "^0.1.0"
+  },
+  "author": "Marcos Diaz",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-nodemon": "~2.0.6"
+  }
+}
